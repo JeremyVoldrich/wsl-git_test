@@ -1,1 +1,2 @@
 Hello World!
+Additional comment to test git commit without -m.
